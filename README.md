@@ -1,2 +1,2 @@
 # wine-quality-prediction
-Şarap kalitesinin bazı sınıflandırma modelleri ile tahmini ve python kütüphaneleriyle görselleştirilmesi.
+Wine quality prediction with some ML classification algortihms and data visualization.
